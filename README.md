@@ -1,5 +1,5 @@
-#pipe-to-sh Proof of Concept
-============================
+pipe-to-sh Proof of Concept
+===========================
 
 Piping direct to sh from the web has its obvious dangers along with some
 not so obvious hidden ones..
