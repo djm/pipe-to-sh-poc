@@ -1,0 +1,90 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+    display: block;
+}
+html {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+h1, code {
+    font-family: "Inconsolata",  "Menlo",  "Andale Mono WT",  "Andale Mono",  "Lucida Console",  "Lucida Sans Typewriter",  "DejaVu Sans Mono",  "Bitstream Vera Sans Mono",  "Liberation Mono",  "Nimbus Mono L",  Monaco,  Courier,  monospace,  sans-serif;
+}
+body {
+    color: #e5e5e5;
+    background: #191919;
+    line-height: 1;
+    padding: 1em 0 0 1em;
+}
+::-moz-selection {
+    color: #191919;
+    background: #d9ad00;
+    text-shadow: none;
+}
+::selection {
+    color: #191919;
+    background: #d9ad00;
+    text-shadow: none;
+}
+h1 {
+    font-size: 2em;
+    line-height: 1.2em;
+    color: #fc0;
+    margin: 0 0 3px 0;
+
+}
+h2 {
+    font-size: 1.1em;
+    line-height: 1.5em;
+    color: white;
+    margin: 0 0 1em 0;
+}
+a:link, a:visited {
+    color: #d9ad00;
+}
+a:link, a:visited, a:hover, a:active {
+    outline: none;
+}
+a:focus, a:hover, a:active {
+    color: #002cd9;
+    text-decoration: none;
+}
+a:focus {
+    outline: thin dotted;
+}
+code {
+    background: #333;
+    padding: 1em;
+    border: 1px solid #5c5c5c;
+    display: inline-block;
+}
+p {
+    margin-bottom: 1.5em;
+}
+html > body {
+    font-size: 18px;
+}
+}
+a:link, a:visited {
+    color: #d9ad00;
+    text-decoration: none;
+    text-shadow: #0f0f0f;
+    -moz-outline-style: none;
+    outline: none;
+}
+a:link, a:visited, a:hover, a:active {
+    -moz-outline-style: none;
+    outline: none;
+}
+a:focus, a:hover, a:active {
+    background: #1e1e1e;
+    color: #b3e8ff;
+    -moz-outline-style: none;
+    outline: none;
+}
