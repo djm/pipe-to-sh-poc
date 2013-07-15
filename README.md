@@ -15,5 +15,4 @@ told to download via [curl/libcurl](http://curl.haxx.se/) like so:
 
 This is a proof of concept; no damaging code is contained within.
 
-For more on this please see the post on [djm.org.uk "Darian Moody, Python
-Developer, London"](http://www.djm.org.uk).
+For more on this please see the post on [djm.org.uk](http://www.djm.org.uk "Darian Moody, Python Developer, London").
