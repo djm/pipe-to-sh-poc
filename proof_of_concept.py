@@ -1,4 +1,5 @@
-from flask import Flask, render_template, request, send_from_directory
+from flask import (Flask, make_response, render_template, request,
+                   send_from_directory)
 
 
 app = Flask(__name__)
@@ -21,7 +22,11 @@ def install_sh():
         path = 'sh/nasty.sh'
     else:
         path = 'sh/nice.sh'
-    return send_from_directory(app.static_folder, path)
+    to_serve = send_from_directory(app.static_folder, path)
+    response = make_response(to_serve)
+    # We want the raw text viewable in the browser, not for the file to DL.
+    response.headers['Content-Type'] = 'text/plain'
+    return response
 
 
 if __name__ == "__main__":
