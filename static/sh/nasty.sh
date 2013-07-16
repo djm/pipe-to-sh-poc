@@ -1,2 +1,19 @@
 #!/bin/sh
-echo "Brave, walking into a bear trap like that..."
+echo "\nBrave, walking into a bear trap like that..."
+
+echo '
+         .------------.  
+     TT-"    _     _   "-TT
+     ||     (o\---/o)    ||
+     II      ( _ _ )     II  ...zzz..zzzzzzzzz.......
+     ||__,--.(_(Y)_),--._||  
+     |/  "--"  ___  "--" \|
+     /      ,-"   "-.     \
+    /    _,~.      ,~._    \
+   /   /(ooO )\__/( Ooo)\   \
+  /_,~"_((_) )____( (_))_`~._\
+ (       "--"      "--"       )
+  )__________________________(
+   I_I                    I_I
+  (___)                  (___)
+'
