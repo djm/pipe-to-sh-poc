@@ -2,11 +2,11 @@
 echo "\nBrave, walking into a bear trap like that..."
 
 echo '
-         .------------.  
+         .------------.
      TT-"    _     _   "-TT
      ||     (o\---/o)    ||
-     II      ( _ _ )     II  ...zzz..zzzzzzzzz.......
-     ||__,--.(_(Y)_),--._||  
+     II      ( _ _ )     II  ...zZz..zzZzZzZZz......
+     ||__,--.(_(Y)_),--._||
      |/  "--"  ___  "--" \|
      /      ,-"   "-.     \
     /    _,~.      ,~._    \
