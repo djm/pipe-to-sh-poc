@@ -25,4 +25,4 @@ N.B Piping to `cat` not `sh`; the file *is* harmless...but why are trusting me?
 
 This is a proof of concept; no damaging code is contained within.
 
-For more on this please see the post on [djm.org.uk](http://www.djm.org.uk "Darian Moody, Python Developer, London").
+For more on this please see the post on [djm.org.uk](http://www.djm.org.uk/protect-yourself-from-non-obvious-dangers-curl-url-pipe-sh/ "Darian Moody, Python Developer, London").
